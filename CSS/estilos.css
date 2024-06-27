@@ -1,0 +1,54 @@
+
+.preguntas{
+    margin :50px 50px;
+    text-align: center;
+}
+
+
+h2{
+    text-align: center;
+}
+
+.tarjetas {
+    margin: 60px 60px ;
+}
+
+h1{
+    text-align: center;
+
+}
+
+.micarrusel{
+    margin: 30px 30px;
+}
+
+.bi-snow{
+    font-size: 50px;
+}
+
+.bi-snow2{
+    font-size: 50px;
+}
+
+.bi-snow3{
+    font-size: 50px;
+}
+
+.bi-thermometer-snow{
+    font-size: 50px;
+}
+
+.parrafo{
+    margin: 20px 20px;
+    text-align: center;
+}
+
+
+.contenedorpreguntas {
+    background-color: pink;
+}
+
+.faq{
+    background-color: pink;
+
+}
